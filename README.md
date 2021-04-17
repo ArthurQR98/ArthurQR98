@@ -12,6 +12,7 @@ Soy un estudiante de Ing.Sistemas de la cuidad de Trujillo - Perú. Me encanta c
 * Movil => [Java](https://go.java/?intcmp=gojava-banner-java-com) | [Kotlin](https://kotlinlang.org/) 
 * Backend => [NodeJS](https://nodejs.org/es/) | [NestJS](https://nestjs.com/) | [Laravel](https://laravel.com/) | [Ktor](https://ktor.io/)
 * Machine Learning => [Anaconda](https://www.anaconda.com/)
+* VideoJuegos => [Unity](https://unity.com/es)
 
 ### Estudiando 🛠️
 

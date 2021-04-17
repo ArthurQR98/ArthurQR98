@@ -8,10 +8,10 @@ Soy un estudiante de Ing.Sistemas de la cuidad de Trujillo - Perú. Me encanta c
 
 ### Conocimientos 📖
 
-* Frontend => Angular | React
-* Movil => Java | Kotlin 
-* Backend => NodeJS | NestJS | Laravel | Ktor
-* Machine Learning => Python [Panda-Jupyter]
+* Frontend => [Angular](https://angular.io/) | [React](https://reactjs.org/)
+* Movil => [Java](https://go.java/?intcmp=gojava-banner-java-com) | [Kotlin](https://kotlinlang.org/) 
+* Backend => [NodeJS](https://nodejs.org/es/) | [NestJS](https://nestjs.com/) | [Laravel](https://laravel.com/) | [Ktor](https://ktor.io/)
+* Machine Learning => [Anaconda](https://www.anaconda.com/)
 
 ### Estudiando 🛠️
 

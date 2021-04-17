@@ -1,16 +1,22 @@
-### Hi there 👋
+# ¡Hola! Soy Arthur Quezada
+Soy un estudiante de Ing.Sistemas de la cuidad de Trujillo - Perú. Me encanta crear aplicaciones web rapidas [Angular](https://angular.io/) - [React](https://reactjs.org/) y moviles con [Android](https://developer.android.com/studio). Siempre con las mejores practicas y una buena arquitectura.
 
-<!--
-**ArthurQR98/ArthurQR98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Puedes encontrarme en 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Linkedln](https://www.linkedin.com/in/arthur-quezada/)
+
+### Conocimientos 📖
+
+Frontend => Angular | React
+Movil => Java | Kotlin 
+Backend => NodeJS | NestJS | Laravel | Ktor
+Machine Learning => Python [Panda-Jupyter]
+
+### Estudiando 🛠️
+
+[Go](https://pkg.go.dev/?utm_source=godoc)
+[Django](https://www.djangoproject.com/)
+[Vue](https://es.vuejs.org/v2/guide/)
+[Docker](https://www.docker.com/)
+[AWS](https://aws.amazon.com/es/console/)

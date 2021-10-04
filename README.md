@@ -12,4 +12,4 @@ Soy un estudiante de Ing.Sistemas de la cuidad de Trujillo - Perú. Me encanta c
 * Movil => [Java](https://go.java/?intcmp=gojava-banner-java-com) | [Kotlin](https://kotlinlang.org/) 
 * Backend => [NodeJS](https://nodejs.org/es/) | [NestJS](https://nestjs.com/) | [Go](https://pkg.go.dev/?utm_source=godoc) | [Ktor](https://ktor.io/)
 * Machine Learning => [Anaconda](https://www.anaconda.com/)
-* DevOps => [Docker](https://www.docker.com/) | [AWS](https://aws.amazon.com/es/console/) | [Kubernetes](https://kubernetes.io/es/)
+* DevOps => [Docker](https://www.docker.com/) | [Kubernetes](https://kubernetes.io/es/) | [AWS](https://aws.amazon.com/es/console/) 

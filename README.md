@@ -31,3 +31,9 @@
 [![ChackraUI](https://img.shields.io/badge/-ChackraUI-000000?style=flat&logo=chakra-ui)](https://chakra-ui.com/)
 [![TypeORM](https://img.shields.io/badge/-TypeORM-000000?style=flat&logo=Antd)](https://typeorm.io/#/)
 [![PrismaORM](https://img.shields.io/badge/-PrismaORM-000000?style=flat&logo=prisma)](https://www.prisma.io/#/)
+
+
+<div align="center">
+  <img height="150px" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ArthurQR98&show_icons=true&include_all_commits=true&theme=tokyonight" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurQR98&hide=html&layout=compact&theme=tokyonight" />
+</div>

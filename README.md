@@ -1,7 +1,7 @@
 ### Hi there, I'm [Arthur Quezada!](https://arthur-quezada.com) 👋
 
 - 🧑‍💻 I'm a Systems Engineer, specialized in software.
-- <img src="https://img.icons8.com/fluency/344/google-logo.png" width="20px"> Member of the [Google Developer Student Clubs](https://developers.google.com/community/gdsc)
+- <img src="https://img.icons8.com/fluency/344/google-logo.png" width="20px"> Member of the [Google Developer Student](https://developers.google.com/community/gdsc)
 - 👯 My main technologies are NestJS (Nodejs) and React
 - 🔭 I specializes in broadly understood architecture (Domain Driven Design, Microservices, etc.)
 - 💬 Ask me about Software Architecture, Domain Driven Design, NestJS, Node.js, Docker, kubernetes, React and AWS

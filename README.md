@@ -13,8 +13,8 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=Typescript&logoColor=6f97cc)
 ![JavaScript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=JavaScript)
 ![Golang](https://img.shields.io/badge/-Golang-000000?style=flat&logo=Go&logoColor=79d4fd)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=Kotlin&logoColor=79d4fd)
-![Elixir](https://img.shields.io/badge/-Elixir-000000?style=flat&logo=Elixir&logoColor=79d4fd)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=Kotlin&logoColor=f080ff)
+![Elixir](https://img.shields.io/badge/-Elixir-000000?style=flat&logo=Elixir&logoColor=30103e)
 
 ##### Tools I primary use
 ![Nodejs](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
